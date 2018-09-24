@@ -1,0 +1,10 @@
+﻿  Interpreter.cpp
+d:\new\new3\db\project1\project1\interpreter.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\new\new3\db\project1\project1\interpreter.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\new\new3\db\project1\project1\api.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\new\new3\db\project1\project1\condition.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\new\new3\db\project1\project1\indexmanager.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\new\new3\db\project1\project1\bplustree.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\new\new3\db\project1\project1\interpreter.cpp(23): warning C4018: “<”: 有符号/无符号不匹配
+  Project1.vcxproj -> D:\New\New3\DB\Project1\Debug\Project1.exe
+  Project1.vcxproj -> D:\New\New3\DB\Project1\Debug\Project1.pdb (Partial PDB)
